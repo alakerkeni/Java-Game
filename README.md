@@ -1,0 +1,1 @@
+This simple game showcases my emphasis on utilizing threads and incorporates a design featuring both dark and light modes. The game is designed around the classic paddle concept, highlighting the potential of Java's Swing library. Feel free to contribute to the enhancement of this code !
